@@ -1,0 +1,14 @@
+/home/malik/internship/DesignPatterns/bin/Debug/net10.0/DesignPatterns
+/home/malik/internship/DesignPatterns/bin/Debug/net10.0/DesignPatterns.deps.json
+/home/malik/internship/DesignPatterns/bin/Debug/net10.0/DesignPatterns.runtimeconfig.json
+/home/malik/internship/DesignPatterns/bin/Debug/net10.0/DesignPatterns.dll
+/home/malik/internship/DesignPatterns/bin/Debug/net10.0/DesignPatterns.pdb
+/home/malik/internship/DesignPatterns/obj/Debug/net10.0/DesignPatterns.GeneratedMSBuildEditorConfig.editorconfig
+/home/malik/internship/DesignPatterns/obj/Debug/net10.0/DesignPatterns.AssemblyInfoInputs.cache
+/home/malik/internship/DesignPatterns/obj/Debug/net10.0/DesignPatterns.AssemblyInfo.cs
+/home/malik/internship/DesignPatterns/obj/Debug/net10.0/DesignPatterns.csproj.CoreCompileInputs.cache
+/home/malik/internship/DesignPatterns/obj/Debug/net10.0/DesignPatterns.dll
+/home/malik/internship/DesignPatterns/obj/Debug/net10.0/refint/DesignPatterns.dll
+/home/malik/internship/DesignPatterns/obj/Debug/net10.0/DesignPatterns.pdb
+/home/malik/internship/DesignPatterns/obj/Debug/net10.0/DesignPatterns.genruntimeconfig.cache
+/home/malik/internship/DesignPatterns/obj/Debug/net10.0/ref/DesignPatterns.dll
